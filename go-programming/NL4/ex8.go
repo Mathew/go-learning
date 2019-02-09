@@ -24,5 +24,4 @@ func main() {
 
 	delete(people, "fist_iron")
 	fmt.Println(people)
-
 }
